@@ -229,6 +229,19 @@ O projeto possui arquivos de instruções para orientar o desenvolvimento:
 
 Esses arquivos ajudam a manter a consistência do código durante o desenvolvimento e as futuras alterações.
 
+## Resultados do Lighthouse
+
+Auditoria realizada no Google Chrome utilizando o modo Mobile.
+
+| Categoria | Pontuação |
+|---|---:|
+| Desempenho | 93 |
+| Acessibilidade | 95 |
+| Práticas recomendadas | 100 |
+| SEO | 82 |
+
+O desempenho mobile atingiu 93 pontos, superando a meta mínima de 80 estabelecida para o projeto.
+
 ---
 
 Desenvolvido por **João Pedro**.
